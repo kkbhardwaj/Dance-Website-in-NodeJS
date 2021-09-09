@@ -1,0 +1,25 @@
+#Section1{
+    height: 424px;
+    background-color: #616161;;
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Azeret Mono', monospace;
+    font-size: 38px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    padding: 20px;
+    text-align: start;
+    margin-bottom: 150px;
+}
+#Section1 div{
+    font-size: 40px;
+    padding: 20px;
+    text-align: start;
+}
+#Section1 div.small{
+    font-size: 17px;
+    padding: 15px;
+}

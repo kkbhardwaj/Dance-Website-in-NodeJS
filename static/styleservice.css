@@ -1,0 +1,10 @@
+.omg{
+    height: 600px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-top: 150px;
+    padding-right: 100px;
+    background-color: beige;
+}

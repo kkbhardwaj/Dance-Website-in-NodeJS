@@ -1,0 +1,16 @@
+extends base.pug
+block scripts
+  script(src='/static/index.js')
+block style 
+    style
+        include ../static/style.css
+        include ../static/styleclassinfo.css
+block content 
+    section#Section000
+        div.aaa
+            img(src="/static/img/0.png")
+    section#Section001        
+        div.abc
+            img(src="/static/img/1.png")
+            img(src="/static/img/3.png")
+            img(src="/static/img/4.png")
